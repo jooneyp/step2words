@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  point: 1
+  cash: 1
+  locale: MyString
+  oauth: MyString
+  oauthkey: MyString
+  sessionid: MyString
+  device: MyString
+
+two:
+  point: 1
+  cash: 1
+  locale: MyString
+  oauth: MyString
+  oauthkey: MyString
+  sessionid: MyString
+  device: MyString
